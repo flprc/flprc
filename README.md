@@ -1,4 +1,4 @@
-### Hi, I'm Felipe Cavalcante 👋
+### Hi! I'm Felipe Cavalcante 👋
 
 
 <p>👀 I’m interested in HTML, CSS, JavaScript, React, TypeScript, Vue.js</p>
